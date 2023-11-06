@@ -1,6 +1,6 @@
 # Playground
 Nothing to see here
 
-Test commit: 3
+Test commit: 2
 
 Test push: 1
